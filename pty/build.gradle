@@ -1,3 +1,5 @@
+package jediterm.pty
+
 apply plugin: 'java'
 apply plugin: 'application'
 apply plugin: 'maven-publish'

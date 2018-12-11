@@ -1,3 +1,5 @@
+package jediterm
+
 buildscript {
     repositories {
         jcenter()

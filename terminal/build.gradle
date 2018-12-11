@@ -1,3 +1,5 @@
+package jediterm.terminal
+
 apply plugin: 'java'
 
 sourceSets {
